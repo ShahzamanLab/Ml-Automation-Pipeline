@@ -1,0 +1,23 @@
+{
+  "best_model": "ARIMA",
+  "RMSE": 4.7275,
+  "problem_type": "time_series",
+  "target_column": "Stock_5",
+  "saved_at": "2026-02-22T14:05:40.954452",
+  "all_results": [
+    {
+      "Model": "ARIMA",
+      "RMSE": 4.7275,
+      "MAE": 3.8996,
+      "MAPE": 2.7992,
+      "MSE": 22.3488
+    },
+    {
+      "Model": "ExpSmoothing",
+      "RMSE": 5.2412,
+      "MAE": 4.378,
+      "MAPE": 3.4149,
+      "MSE": 27.4705
+    }
+  ]
+}
