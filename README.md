@@ -120,7 +120,7 @@ The pipeline consists of 10 sequential steps. Each step must be completed before
 - Review the auto-generated summary and preview.
 - Click **Complete Step 1** to lock in your dataset.
 
-![Data Loading](docs/images/data_loading.png)
+![Data Loading](https://github.com/ShahzamanLab/Ml-Automation-Pipeline/blob/main/docs/images/Data%20Loading%20image.png?raw=true)
 
 ### Step 2: Duplicates & Missing Values
 
@@ -128,14 +128,14 @@ The pipeline consists of 10 sequential steps. Each step must be completed before
 - Inspect missing values per column.
 - Choose a strategy (impute, drop, fill) and apply it.
 
-![Missing & Duplicate Values](docs/images/missing_duplicate_values.png)
+![Missing & Duplicate Values](https://github.com/ShahzamanLab/Ml-Automation-Pipeline/blob/main/docs/images/Missing%20&%20Duplicate%20Values.png?raw=true)
 
 ### Step 3: Feature Engineering
 
 - Drop any columns you don't want (e.g., IDs, constants).
 - If you have a date column, extract features like year, month, day, weekday, and quarter.
 
-![Feature Engineering](docs/images/feature_engineering.png)
+![Feature Engineering](https://github.com/ShahzamanLab/Ml-Automation-Pipeline/blob/main/docs/images/Feature%20Engineering%20image.png?raw=true)
 
 ### Step 4: Categorical Encoding
 
@@ -169,7 +169,7 @@ The pipeline consists of 10 sequential steps. Each step must be completed before
 - See a table of scores and a bar chart.
 - The best model is highlighted.
 
-![Evaluation](docs/images/evaluation.png)
+![Evaluation](https://github.com/ShahzamanLab/Ml-Automation-Pipeline/blob/main/docs/images/evaluation%20part%20image.png?raw=true)
 
 ### Step 10: Download Models
 
@@ -181,7 +181,7 @@ The pipeline consists of 10 sequential steps. Each step must be completed before
 
 The final dashboard summarises your pipeline and allows you to start over.
 
-![Pipeline Completion](docs/images/pipeline_completion.png)
+![Pipeline Completion](https://github.com/ShahzamanLab/Ml-Automation-Pipeline/blob/main/docs/images/pipeline_completion_image.png?raw=true)
 
 ---
 
