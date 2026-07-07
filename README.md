@@ -236,4 +236,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 📧 Contact
 
-For questions, suggestions, or collaboration, reach out via [GitHub Issues](https://github.com/ShahzamanLab/Ml-Automation-Pipeline/issues) or open a discussion on the repository.
+For questions, suggestions, or collaboration, reach out via email: gallanizaman@gmail.com 
+and contact us on the website [Phymaco](https://phymaco.com/)
