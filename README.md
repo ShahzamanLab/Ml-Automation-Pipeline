@@ -175,7 +175,7 @@ The pipeline consists of 10 sequential steps. Each step must be completed before
 
 - Download individual models or a ZIP containing all of them.
 
-![Download & Train Model](docs/images/download_trainmodel.png)
+![Download & Train Model](https://github.com/ShahzamanLab/Ml-Automation-Pipeline/blob/main/docs/images/download_trainmodel.png?raw=true)
 
 ### Finish
 
